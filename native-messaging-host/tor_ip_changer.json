@@ -1,0 +1,10 @@
+{
+    "name": "tor_ip_changer",
+    "description": "Change Tor IP using native messaging",
+    "path": "/path/to/tor_ip_changer.py",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://<your-extension-id>/"
+    ]
+  }
+  
